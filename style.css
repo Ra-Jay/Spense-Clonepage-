@@ -1,0 +1,163 @@
+header{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+body{
+	margin: 0px;
+}
+h3{
+	flex: 1;
+	text-align: left;
+}
+h1{
+	text-align: left;
+	margin-bottom: 0px;
+}
+p{
+	text-align: left;
+	margin-top: 15px;}
+td{
+	flex: 1;
+	padding: 10px;
+}
+button{
+	flex: 1.5;
+	margin: 10px;
+	background-color: black;
+	color: white;
+	border: 0px;
+	border-radius: 3px;
+	padding: 1px;
+}
+footer{
+	display: flex;
+	background-color: black;
+	color: white;
+	padding: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+footer li{
+	flex: 1;
+	text-align: left;
+	padding-top: 30px;
+}
+#spense{
+	flex: 3;
+}
+#container1{
+	background-color: lightgray;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+#container2{
+	background-color: lightgray;
+	width: 80%;
+	float: center;
+	border-radius: 10px;
+	display: flex;
+	margin-bottom: 70px;
+}
+#container3{
+	display: flex;
+	width: 80%;
+}
+#login{
+	flex: 5;
+	text-align: right;
+	margin-right: 10px;
+	padding-top: 4px;
+}
+#start{
+	flex: 1;
+	text-align: right;
+	display: flex;
+}
+#upperDiv{
+	width: 80%;
+	display: flex;
+}
+#lowerDiv{
+	display: flex;
+	width: 80%;	
+}
+#leftContent{
+	flex: 3;
+	padding-top: 70px;
+}
+#rightContent{
+	flex: 1.5;
+}
+#rightContent img{
+	height: 450px;
+	width: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+}
+#email input{
+	width: 200px;
+	height: 30px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 20px;
+	float: left;
+}
+#email button{
+	padding: 18px;
+	margin: 0px;
+	margin-left: 10px;
+	float: left;
+	border-radius: 5px ;
+}
+#leftSide{
+	flex: 1;
+	padding: 100px;
+	padding-right: 0;
+}
+#leftSide h1{
+	margin: 0;
+}
+#rightSide{
+	flex: 1;
+}
+#image1{
+	flex: 1;
+	padding-left: 20px;
+}
+#text1{
+	flex: 1;
+	padding-top: 65px;
+	padding-left: 20px;
+}
+.benefits{
+	text-align: left;
+	display: flex;
+}
+.benefits img{
+	flex: .1;
+	margin-right: 20px;
+}
+.benefits p{
+	flex: 7;
+	margin: 7px;
+}
+.platforms{
+	display: flex;
+	width: 80%;
+	height: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.platforms img{
+	flex: 1;
+	height: 20px;
+	width: 40px;
+	padding-right: 40px;
+	padding-top: 15px;
+}
+#slack{
+	padding-right: 0;
+}
